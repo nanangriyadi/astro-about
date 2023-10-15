@@ -1,7 +1,7 @@
 # Astro Starter Kit: Portfolio
 
 ```sh
-npm create astro@latest -- --template portfolio
+npm create astro@latest
 ```
 
 > 🧑‍🚀 **Seasoned astronaut?** 
