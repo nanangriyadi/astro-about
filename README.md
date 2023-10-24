@@ -3,6 +3,8 @@
 ```sh
 npm create astro@latest
 ```
+![image](https://github.com/nanangriyadi/astro-about/assets/3053485/c43528dc-3bd2-47a3-aac3-806ea4c74358)
+
 
 > 🧑‍🚀 **Seasoned astronaut?** 
 
